@@ -34,3 +34,4 @@ The site will be available at **127.0.0.1:8000**.
 
 ## License
 
+altanner/django_upload is licensed under the GNU General Public License v3.0
