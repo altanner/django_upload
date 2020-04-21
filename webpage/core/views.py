@@ -13,6 +13,7 @@ class Home(TemplateView):
 
 def upload(request):
     context = {}
+    # I think this is where we need "if there is no file, do nothing"
     if request.method == 'POST':
         uploaded_file = request.FILES['document']
         fs = FileSystemStorage()
