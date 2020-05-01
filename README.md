@@ -1,9 +1,9 @@
-# Django File Upload
+# Django File Upload (placeholder for FB/IG social media uploader)
 
 [![Python Version](https://img.shields.io/badge/python-3.7-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.0.3-brightgreen.svg)](https://djangoproject.com)
 
-## Running the Project Locally
+## Running Locally
 
 Clone the repository to your local machine:
 
