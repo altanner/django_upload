@@ -21,6 +21,8 @@ def upload(request):
         context['url'] = fs.url(name)
     return render(request, 'upload.html', context)
 
+def how_to(request):
+    return render(request, 'how_to.html')
 
 def book_list(request):
     books = Book.objects.all()
